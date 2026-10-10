@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "coord": {
+      "command": "node",
+      "args": [
+        "g:\\PROGRAMS\\Amoeba\\resources\\app\\amoeba-runtime\\mcp\\dist\\server.js"
+      ]
+    }
+  }
+}
